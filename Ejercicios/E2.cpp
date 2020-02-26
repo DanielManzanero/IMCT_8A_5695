@@ -9,7 +9,7 @@ int x,num=-99;
 	num=x;
 	}
 	}while(x!=-99);
-cout<<"El mayor de la reie es: "<<num<<endl;
+cout<<"El numero mayor de la reie es: "<<num<<endl;
 return 0;
 }
 
