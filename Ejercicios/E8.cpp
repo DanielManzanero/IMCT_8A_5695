@@ -22,6 +22,6 @@ cin>>n;
 sum=sum+n;
 cin>>n;
 sum=sum+n;
-cout<<sum<<endl;
+cout<<"La suma de los numeros da: "<<sum<<endl;
 }
 
