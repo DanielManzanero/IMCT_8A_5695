@@ -3,7 +3,6 @@ using namespace std;
 int suma=0;
 long double producto=1;
 
-
 int calcular(){
         for(int a=20;a<=400;a+=2){
          if(a%2==0){
