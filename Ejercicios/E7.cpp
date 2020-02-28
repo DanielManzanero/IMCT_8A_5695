@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-int n,suma;
+int suma=0;
+for(int n=2;
 }
