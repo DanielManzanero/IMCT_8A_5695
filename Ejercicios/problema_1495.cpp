@@ -3,7 +3,7 @@
 using namespace std; 
   
 int* obtener(int N){ 
-int* numeros=new int[N]; 
+int* numeros=new int[N];
 
 	for(int a=0;a<N;a++)
 	cin>>numeros[a];
